@@ -1,0 +1,20 @@
+{
+  "mods": [
+    {
+      "modId": "aaml",
+      "version": "1.0.0",
+      "fileName": "aaml-0.0.5-neoforge-1.21.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/PixelProtogen/AAML/main/TestPackA/mods/aaml-0.0.5-neoforge-1.21.1.jar",
+      "sha256": "fcab37bc74ecc111b650b39fc29407c0a220108354a9f74801f1405e307bca78",
+      "isRequired": true
+    },
+    {
+      "modId": "connector",
+      "version": "1.0.0",
+      "fileName": "connector-2.0.0-beta.14+1.21.1-full.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/PixelProtogen/AAML/main/TestPackA/mods/connector-2.0.0-beta.14+1.21.1-full.jar",
+      "sha256": "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b",
+      "isRequired": true
+    }
+  ]
+}
